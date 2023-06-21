@@ -1,0 +1,13 @@
+﻿{
+  "Id": "i-s9kpDaK02PnlIbo86DsA",
+  "Reference": "v5d1oEhjK0mtGs5cxVQmxQ/i-s9kpDaK02PnlIbo86DsA",
+  "ParentRef": "v5d1oEhjK0mtGs5cxVQmxQ/emr8Rdq2JEaut2R5u9FQrg",
+  "Name": "sha-1",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2023-04-04T09:20:43.1998941Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-04T09:20:43.1998941Z"
+}

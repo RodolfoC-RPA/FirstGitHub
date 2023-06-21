@@ -1,0 +1,14 @@
+﻿{
+  "Id": "WlOEgWw9X0qU9G-WaFS0_w",
+  "Reference": "v5d1oEhjK0mtGs5cxVQmxQ/WlOEgWw9X0qU9G-WaFS0_w",
+  "Name": "UiPath_Academy",
+  "Type": "App",
+  "Created": "2023-04-04T09:48:06.7616216Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-04T09:49:36.2785035Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

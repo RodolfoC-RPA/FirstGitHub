@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_6Am6SRIOUS41Oh9sKlqjA",
+  "Reference": "v5d1oEhjK0mtGs5cxVQmxQ/_6Am6SRIOUS41Oh9sKlqjA",
+  "ParentRef": "v5d1oEhjK0mtGs5cxVQmxQ/IrcQMNsqBkGs2a2Be2wszw",
+  "Name": "Course_Title",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-04-04T10:51:58.384631Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-04T14:36:28.7754028Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

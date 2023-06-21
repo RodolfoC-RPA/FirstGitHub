@@ -1,0 +1,13 @@
+﻿{
+  "Id": "K_CrstF50k2Q-_lAYabdbg",
+  "Reference": "v5d1oEhjK0mtGs5cxVQmxQ/K_CrstF50k2Q-_lAYabdbg",
+  "ParentRef": "v5d1oEhjK0mtGs5cxVQmxQ/LQzohbcyXkKcPfODPDbP7w",
+  "Name": "Courses",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-04-04T09:49:36.3362673Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-04T09:49:36.3362673Z"
+}
