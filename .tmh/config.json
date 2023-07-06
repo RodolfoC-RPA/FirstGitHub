@@ -1,4 +1,9 @@
 {
   "issueKeyTestcaseValues": {},
-  "testManagerBasePath": "https://cloud.uipath.com/rodolfocrpa/defaulttenant/testmanager_"
+  "testManagerBasePath": "https://cloud.uipath.com/rodolfocrpa/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "226d2b1d-d81f-0000-94e9-0b457b6e51c0",
+    "name": "Examen TestSuite",
+    "key": "EXATS"
+  }
 }

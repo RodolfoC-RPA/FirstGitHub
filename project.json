@@ -1,5 +1,6 @@
 {
   "name": "Addtional_Exercises",
+  "projectId": "81a27237-53a1-4243-ac5f-7398ec0758e6",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -13,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.5.0",
-  "projectVersion": "1.0.140536971",
+  "projectVersion": "1.0.141053211",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -55,6 +56,20 @@
         "testCaseId": "8a950a93-e5f4-4975-a5d6-af9955baa866",
         "testCaseType": "TestCase",
         "fileName": "Check_Course_Name.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1ca27f43-7ae2-4c1c-839b-9484bf5596ff",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ANewLinkeableTestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1dc0fb99-2590-46e2-81aa-34f41348f5d2",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "StudioTC_main.xaml"
       }
     ],
     "modernBehavior": true
